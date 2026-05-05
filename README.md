@@ -14,4 +14,5 @@ To enhance user experience, the app includes only two optional online features:
 Both activate only when you choose to use them and can never access your vault data.
 
 Simple – Secure – Offline – Powerful – Portable – No Servers – No Tracking – No Sign-up – No Subscriptions – No Internet Required – Zero Data Collection – Fully Encrypted – AES-256 Protection – Local Storage Only – Cross-Platform – Lightweight – Fast – Flexible – Customizable – Backup Ready – Recovery Enabled – Transparent – Independent – No Compromise – Full Control – Fully Private – No Installation
+
 **Made for you — in a way that your data truly belongs only to you.**
