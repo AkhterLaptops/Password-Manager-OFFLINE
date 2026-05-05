@@ -1,4 +1,5 @@
 **About This App**
+
 In a world where digital privacy is constantly challenged and sensitive data is always at risk online, this Password Manager takes a very different approach — 100% offline by default, so your data stays only yours, always. At its core lies powerful AES-256-GCM encryption, the same standard trusted by banks and high-security systems worldwide.
 
 Cloud-based password managers rely on remote servers. While convenient, this also creates a single high-value target for attackers. If that system is compromised, millions of users can be affected at once. For example, in 2022, personal data of over 1.6 million users was exposed through a breach of LastPass Servers (Wellknown Clout-based Password Manager). This single incident later contributed to $35M+ crypto theft in 2023, growing to $150M+ losses by early 2025, with further analysis in 2025 linking $438M+ in total thefts — continuing to impact users even in 2026.
